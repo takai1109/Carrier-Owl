@@ -3,9 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        speech emotion recognition: 3
+        sentiment analysis: 3
+        utterance classification: 2
+        cnn-lstm: 3
 
 # 通知の閾値
 score_threshold: 0
